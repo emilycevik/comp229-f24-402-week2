@@ -1,11 +1,11 @@
 import { Routes, Route } from 'react-router-dom'
 import Layout from './components/Layout';
 import Home from './components/Home';
-import About from '/components/About';
-import Contact from '/components/Contact';
-import Education from '/components/Education';
-import Projects from '/components/Projects';
-import Services from '/components/Services';
+import About from './components/About';
+import Contact from './components/Contact';
+import Education from './components/Education';
+import Projects from './components/Projects';
+import Services from './components/Services';
 
 
 
