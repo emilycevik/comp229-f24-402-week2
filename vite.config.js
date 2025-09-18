@@ -6,7 +6,7 @@ export default defineConfig({
   plugins: [react()],
   preview: {
     allowedHosts: [
-      'comp229-f24-402-week2-p2le.onrender.com'
+      'comp229-f24-402-week2-1.onrender.com'
     ]
   }
 })
